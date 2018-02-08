@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color:rgb(255,105,180);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 77px;
+  }
+
+h2{
+    color:pink;
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+  }
+ 
+body {
+    background-image: url("200w.gif");
+}
+
+h3{
+    font-family: 'Sedgwick Ave Display', cursive;
+    color:white;
+    text-align: center;
+}
+ 
