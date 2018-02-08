@@ -8,7 +8,7 @@ function preload(){
 }
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(600,400).parent("thethingthatholdssheylassketch");
     background(0);
     
     button = createButton("Play");
